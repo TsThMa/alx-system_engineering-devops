@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 pwd
+=======
+#!/bin/bash \n
+./0-current_working_directory \n 
+>>>>>>> 8c24fe81cb591ad37f605a8082c8344cfe52e31d
