@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -R vincent:staff 0x01-shell_permissions
+[master fbe7193] Task 14
+ 1 file changed, 1 insertion(+), 1 deletion(-)
