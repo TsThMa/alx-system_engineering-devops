@@ -1,2 +1,3 @@
 #!/bin/bash
 chown hello:betty chmod u+x
+chown betty:gillaume chmod u+x
