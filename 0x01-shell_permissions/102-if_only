@@ -1,2 +1,2 @@
 #!/bin/bash
-guillaume chown hello:betty chmod u=x
+chown betty-gillaume hello
