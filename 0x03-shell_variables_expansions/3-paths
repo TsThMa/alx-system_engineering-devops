@@ -1,2 +1,2 @@
 #!/bin/bash
-tree sample
+ho $PATH | tr ":" "\n" | wc -l
