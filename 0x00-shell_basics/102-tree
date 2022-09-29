@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -r /0x00-shell_basics/welcome/to/school
+printf("to'\n'school'\n'school'\n')
